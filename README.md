@@ -53,5 +53,5 @@ I'm currently improving my portfolio with projects focused on:
 
 ## Contact
 
-- LinkedIn: add your LinkedIn URL here
+- LinkedIn: https://www.linkedin.com/in/iagodsantana/
 - GitHub: github.com/Reure
